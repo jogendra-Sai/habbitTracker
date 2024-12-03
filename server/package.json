@@ -1,0 +1,17 @@
+{
+  "name": "dailytasks",
+  "version": "1.0.0",
+  "description": "Project to track our daily tasks",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jogendra Sai Babu Nandyala",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.6",
+    "express": "^4.21.1"
+  }
+}
